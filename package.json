@@ -1,0 +1,11 @@
+{
+  "name": "employee-review-system",
+  "version": "1.0.0",
+  "description": "An application that allows employees to submit feedback toward each other's performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swati S",
+  "license": "ISC"
+}
